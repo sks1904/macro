@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Macro1": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

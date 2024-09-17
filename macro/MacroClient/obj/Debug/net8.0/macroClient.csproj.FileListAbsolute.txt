@@ -1,0 +1,15 @@
+C:\sks\git_rep\macroserver\macroClient\bin\Debug\net8.0\macroClient.exe
+C:\sks\git_rep\macroserver\macroClient\bin\Debug\net8.0\macroClient.deps.json
+C:\sks\git_rep\macroserver\macroClient\bin\Debug\net8.0\macroClient.runtimeconfig.json
+C:\sks\git_rep\macroserver\macroClient\bin\Debug\net8.0\macroClient.dll
+C:\sks\git_rep\macroserver\macroClient\bin\Debug\net8.0\macroClient.pdb
+C:\sks\git_rep\macroserver\macroClient\obj\Debug\net8.0\macroClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\sks\git_rep\macroserver\macroClient\obj\Debug\net8.0\macroClient.AssemblyInfoInputs.cache
+C:\sks\git_rep\macroserver\macroClient\obj\Debug\net8.0\macroClient.AssemblyInfo.cs
+C:\sks\git_rep\macroserver\macroClient\obj\Debug\net8.0\macroClient.csproj.CoreCompileInputs.cache
+C:\sks\git_rep\macroserver\macroClient\obj\Debug\net8.0\macroClient.sourcelink.json
+C:\sks\git_rep\macroserver\macroClient\obj\Debug\net8.0\macroClient.dll
+C:\sks\git_rep\macroserver\macroClient\obj\Debug\net8.0\refint\macroClient.dll
+C:\sks\git_rep\macroserver\macroClient\obj\Debug\net8.0\macroClient.pdb
+C:\sks\git_rep\macroserver\macroClient\obj\Debug\net8.0\macroClient.genruntimeconfig.cache
+C:\sks\git_rep\macroserver\macroClient\obj\Debug\net8.0\ref\macroClient.dll
